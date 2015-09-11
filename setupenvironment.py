@@ -15,8 +15,8 @@ ec2_instancetype='t2.micro'
 ec2_amis='ami-5189a661'
 user_data_script="""#!/bin/bash
 
-ec2_key='AKIAJF3N7V57LHOEBFZA'
-ec2_secret='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'
+ec2_key='asdasdasdasd'
+ec2_secret='asdasdasdasdasdasdasdasd'
 BUCKET_PUPPET='BLACKLINEpuppet'
 sudo apt-get update
 
