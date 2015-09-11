@@ -7,8 +7,8 @@ import boto.ec2
 
 
 
-ec2_key='AKIAJF3N7V57LHOEBFZA'
-ec2_secret='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'
+ec2_key='asdasdasdasd'
+ec2_secret='asdasdasdasdasdasdasdasd'
 ec2_region='us-west-2'
 ec2_key_pair='test'
 ec2_instancetype='t2.micro'
